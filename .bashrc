@@ -1,5 +1,3 @@
-if [ -f .bashrc ]; then source .bashrc; fi
-
 #   -----------------------------
 #   1. GIT AND PS1 STUFF
 #   -----------------------------
